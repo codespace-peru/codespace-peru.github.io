@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 docs/phpdoc/
 test/message.txt
 test/testbootstrap.php
 .idea
 build/
+=======
+docs/phpdoc/
+test/message.txt
+test/testbootstrap.php
+.idea
+build/
+>>>>>>> df1a49aed8713a35489283919813bf63cdebe931
